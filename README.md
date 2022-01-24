@@ -1,0 +1,3 @@
+# Redux Practice Project
+
+Learning React is in progress...
